@@ -1,1 +1,1 @@
-web: gunicorn boby_todo.wsgi:application
+web: gunicorn todo.wsgi:application
